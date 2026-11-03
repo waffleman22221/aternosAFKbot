@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "donovan-uriel.aternos.me:27664",
     "port": 27586,
     "version": "",
     "try-creative": false
